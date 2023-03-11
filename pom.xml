@@ -23,7 +23,17 @@
 		</dependency>
 		<dependency>
 			<groupId>ops4j</groupId>
+			<artifactId>groovy-ops</artifactId>
+			<version>0.0.1</version>
+		</dependency>
+		<dependency>
+			<groupId>ops4j</groupId>
 			<artifactId>mongo-ops</artifactId>
+			<version>0.0.1</version>
+		</dependency>
+		<dependency>
+			<groupId>ops4j</groupId>
+			<artifactId>visual-ops</artifactId>
 			<version>0.0.1</version>
 		</dependency>
 	</dependencies>

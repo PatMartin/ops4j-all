@@ -33,6 +33,11 @@
 		</dependency>
 		<dependency>
 			<groupId>ops4j</groupId>
+			<artifactId>smile-ops</artifactId>
+			<version>0.0.1</version>
+		</dependency>
+		<dependency>
+			<groupId>ops4j</groupId>
 			<artifactId>visual-ops</artifactId>
 			<version>0.0.1</version>
 		</dependency>
